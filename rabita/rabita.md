@@ -18,3 +18,7 @@ and from Bhutan by the Indian state of Sikkim.
 
 There are 12 different language spoken in nepal but mainly the national laguage
 is spoken widely all over the country.
+
+
+**According to the report of 2011, here are the percentage of population follow the different religions**
+| Religion | % of People|
