@@ -7,7 +7,7 @@ Here you will find each of us introduction below:
 
 [Rabita](group3/rabita/rabita.md)
 
-[Alisanli]()
+[Alisanli](alisanliintro/alisanliintroduction.md)
 
 [Xin](group3/xin/xin.md)
 
