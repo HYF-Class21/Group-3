@@ -1,7 +1,7 @@
 # ALI SANLI
 
-Hi, my name is Ali. I have been living in Belgium for 3,5 years. I am working in
-Leuven as Logistics Assistant.
+![Alt text](img/ali.jpeg) Hi, my name is Ali. I have been living in Belgium for
+3,5 years. I am working in Leuven as Logistics Assistant.
 
 ## **ABOUT ME**
 
