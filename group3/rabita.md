@@ -12,6 +12,6 @@ change my career path so I am doing course in HYF.
 - Gradenning and taking care of house plants
 - cooking _trying to cook foods from different countries_
 - Trekking and Hiking
-- listening to music and watching ~~horror~~ movies.
+- listening to music and watching movies.
 
 ## My goal is to become a developer and I will achieve my goal very soon.👩‍💻
